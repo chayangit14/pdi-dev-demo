@@ -1,0 +1,6 @@
+{
+    "scope": "x_2089269_demo1",
+    "scopeId": "4b055e14c272420c8cc053f1864bdc30",
+    "name": "PDI Demo App 1",
+    "tsconfigPath": "./src/server/tsconfig.json"
+}
